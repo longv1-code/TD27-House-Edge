@@ -1,0 +1,12 @@
+{
+  "family": "transition",
+  "parameters": {
+    "half_life": 24,
+    "lags": [
+      7
+    ],
+    "strength": 8
+  },
+  "round": "main",
+  "season_id": "5fffdc4d0c700bbf61c3f911"
+}

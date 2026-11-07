@@ -1,0 +1,12 @@
+{
+  "command": [
+    "python",
+    "predict.py",
+    "--predict",
+    "--data",
+    "/data",
+    "--out",
+    "/output/submission.csv"
+  ],
+  "image": "python"
+}

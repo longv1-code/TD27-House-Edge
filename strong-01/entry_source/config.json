@@ -1,0 +1,16 @@
+{
+  "parameters": {
+    "alpha": 0.5,
+    "chunk_weight": 1.0,
+    "half_life": 12,
+    "long_weight": 0.25,
+    "max_order": 2,
+    "positive_strength": 64,
+    "power": 1.3,
+    "prior_blend": 0.1,
+    "temperature": 0.25,
+    "win_strength": 0.25
+  },
+  "round": "main",
+  "season_id": "5fffdc4d0c700bbf61c3f911"
+}
