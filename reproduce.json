@@ -1,0 +1,4 @@
+{
+  "image": "python",
+  "command": ["python", "predict_blend.py", "--data", "/data", "--out", "/output/submission.csv"]
+}
